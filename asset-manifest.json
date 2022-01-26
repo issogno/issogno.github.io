@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.adad261e.js",
+    "main.js": "/static/js/main.4d41c9a1.js",
     "static/js/787.24f63d8c.chunk.js": "/static/js/787.24f63d8c.chunk.js",
-    "static/media/issogno_logo.svg": "/static/media/issogno_logo.2793c1b91225b641c2b6c0bf6ef1722d.svg",
+    "static/media/background.jpg": "/static/media/background.2b3d4e824a59a31accbb.jpg",
+    "static/media/issogno_logo.svg": "/static/media/issogno_logo.48feaae29d13cc94cc3e59fe1cc26c73.svg",
     "static/media/image01.png": "/static/media/image01.179bee1debc4a07f0aa8.png",
     "index.html": "/index.html",
-    "main.adad261e.js.map": "/static/js/main.adad261e.js.map",
+    "main.4d41c9a1.js.map": "/static/js/main.4d41c9a1.js.map",
     "787.24f63d8c.chunk.js.map": "/static/js/787.24f63d8c.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.adad261e.js"
+    "static/js/main.4d41c9a1.js"
   ]
 }
